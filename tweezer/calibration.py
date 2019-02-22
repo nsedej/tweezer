@@ -10,6 +10,8 @@ import numpy as np
 def function1(a, b = 0.):
     """A short description.
     
+    
+    
     A detailed description of this function. What it does and where it is used.
     Numpy documentation style.
     
